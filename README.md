@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nappinnai
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
+- I'm aspiring to be a full stack developer and i am in that learning path.
 
 <!---
 Nappinnai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
